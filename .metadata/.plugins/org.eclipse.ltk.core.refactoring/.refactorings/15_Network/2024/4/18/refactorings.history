@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.kh.SocketEx.ClinetPre&apos; to &apos;ClientPre&apos;&#x0D;&#x0A;- Original project: &apos;15_Network&apos;&#x0D;&#x0A;- Original element: &apos;com.kh.SocketEx.ClinetPre&apos;&#x0D;&#x0A;- Renamed element: &apos;com.kh.SocketEx.ClientPre&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;ClinetPre&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;com.kh.SocketEx{ClinetPre.java[ClinetPre" matchStrategy="1" name="ClientPre" qualified="false" references="true" similarDeclarations="false" stamp="1714362613361" textual="false" version="1.0"/>
+</session>
